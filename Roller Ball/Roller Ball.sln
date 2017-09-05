@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roller Ball.Plugins", "Roller Ball.Plugins.csproj", "{F7966041-A53D-E27D-B6B7-C0AC20094A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roller Ball", "Roller Ball.csproj", "{33182101-9FF3-ADF6-7F49-636F967CECB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roller Ball.Editor.Plugins", "Roller Ball.Editor.Plugins.csproj", "{0033FD9D-48CB-B813-7C62-1321F011E452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7966041-A53D-E27D-B6B7-C0AC20094A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7966041-A53D-E27D-B6B7-C0AC20094A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7966041-A53D-E27D-B6B7-C0AC20094A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7966041-A53D-E27D-B6B7-C0AC20094A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33182101-9FF3-ADF6-7F49-636F967CECB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33182101-9FF3-ADF6-7F49-636F967CECB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33182101-9FF3-ADF6-7F49-636F967CECB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33182101-9FF3-ADF6-7F49-636F967CECB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0033FD9D-48CB-B813-7C62-1321F011E452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0033FD9D-48CB-B813-7C62-1321F011E452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0033FD9D-48CB-B813-7C62-1321F011E452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0033FD9D-48CB-B813-7C62-1321F011E452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
